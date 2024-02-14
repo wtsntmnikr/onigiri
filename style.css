@@ -177,7 +177,7 @@ div#left ul {
 	width: 555px;
 	height: auto;
 	color: #331313;
-	padding-left: 10px;
+	padding: 0px 30px 10px 30px;
 }
 
 div#left ul li {
